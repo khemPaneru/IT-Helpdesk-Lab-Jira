@@ -17,7 +17,9 @@ Windows 10, Active Directory, Microsoft 365, Domain-joined device.
 2. Checked account status in Active Directory.
 3. Identified account lockout due to failed login attempts.
 4. Reset password and unlocked the account.
-5. Confirmed successful login with the user.![Uploading AD-ticket1-created.png…]()
+5. Confirmed successful login with the user.!
+6. <img width="1915" height="1018" alt="AD-ticket1-created" src="https://github.com/user-attachments/assets/937cfe7d-da1f-4ebe-b064-9a7ee36f818f" />
+
 
 
 ## Root Cause
