@@ -30,3 +30,5 @@ Reinstalled VPN client and reset credentials.
 
 
 ##Final Documentation
+<img width="1631" height="934" alt="image" src="https://github.com/user-attachments/assets/38b0deb1-f5f4-4231-8129-77da1442cef0" />
+
