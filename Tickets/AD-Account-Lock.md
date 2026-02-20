@@ -5,6 +5,8 @@
 ## Issue
 User unable to log in due to multiple failed login attempts.
 <img width="1915" height="1018" alt="AD-ticket1-created" src="https://github.com/user-attachments/assets/feda6728-26f4-4154-88ed-077fcf210118" />
+## Ticket Request via email
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/4c56266b-6bbe-4e9b-9a92-5125d512b6eb" />
 
 
 ## Environment
