@@ -1,4 +1,6 @@
 # Microsoft 365 Email Access Issue
+<img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/7925581f-3db6-4778-93a1-15ed2f11afc0" />
+
 
 ## Issue
 User unable to access Outlook and send emails.
